@@ -3,8 +3,7 @@
 A Python-based application that scrapes public landing pages and uses AI to analyze their marketing messaging. It provides actionable insights including a Hook Score, Audience Persona identification, and specific "Conversion Killers" (jargon or confusing phrasing).
 
 ## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here] 
-*(e.g., https://web-messaging-auditor.streamlit.app)*
+https://web-auditor-3skyljueuat4b2ompe3ks4.streamlit.app/
 
 ## 📋 Features
 - Hook Score: Rates the opening headline and paragraph (0-100) based on how compelling it is.
@@ -26,7 +25,7 @@ Follow these steps to run the app locally on your machine.
 
 ### 1. Clone the Repository
     ```bash
-    git clone <YOUR_GITHUB_REPO_URL>
+    git clone <https://github.com/Syed-ZeeshanGit/Web-Auditor>
     cd web-auditor
 
 ### 2. Create a Virtual Environment
@@ -48,4 +47,5 @@ c. Add your key inside the file:
     GEMINI_API_KEY=your_actual_api_key_here
 
 ### 5. Run the App
+
     streamlit run app.py
