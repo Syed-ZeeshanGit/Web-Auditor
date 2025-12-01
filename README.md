@@ -1,6 +1,7 @@
 # 🕵️ Website Auditor
 
-A Python-based application that scrapes public landing pages and uses AI to analyze their marketing messaging. It provides actionable insights including a Hook Score, Audience Persona identification, and specific "Conversion Killers" (jargon or confusing phrasing).
+A Python-based application that scrapes public landing pages and uses AI to analyze their marketing messaging. It provides actionable insights including a Hook Score (indicating how compelling the opening
+headline and first paragraph are), Audience Persona identification, and specific "Conversion Killers" (jargon or confusing phrasing).
 
 ## 🚀 Live Demo
 https://web-auditor-3skyljueuat4b2ompe3ks4.streamlit.app/
@@ -49,3 +50,4 @@ c. Add your key inside the file:
 ### 5. Run the App
 
     streamlit run app.py
+
